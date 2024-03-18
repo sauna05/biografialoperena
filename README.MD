@@ -17,7 +17,7 @@ touch biografia.txt
 abrir el archivo con la personalizacion de git 
 con el comando "nano" o con "code" para agregar modificaciones
 
-añadir el archvi al stagin espacio en memoria
+añadir el archvo al stagin espacio en memoria
 git add mi_bografia.txt
 
 hacer el comit en nuestro repositorio local
