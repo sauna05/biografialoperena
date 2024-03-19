@@ -1,10 +1,14 @@
-Titulo : biografia de Alexander Loperena sauna
+Nomnbre del proyecto
+Mi biografia
+
+Decripcion
+
 Introducion : se brindara imformacion sobre La biografia de Alexander Loperena
 Contenido : La biorafia detallada se encuentra en el archivo biografia.txt
-instruciones : para abrir el archivo puedes utlizar herramientas como visual studio code o directamente con el comando "cat biografia.txt" 
-puedes ver todo el contenido .
 
-instruciones de comandos y configuracion
+
+
+Configuracion
 
 clonar el repositorio  remoto en nuestro repositorio local con el comando
 git clone "aqui la url de direcion"
@@ -33,8 +37,23 @@ repositorio local al remoto
 
 git push origin nombre_de_la_rama
 
-url del repositorio 
+Contribucion
+
+url del repositorio en GitHub
 sauna05/mi-biografía
+
+Puedes contribuir haciendo un fork al repositorio
+
+y luego enviar la solicitud al dueño del repositorio para que te acepte los cambios 
+o modificaciones haciendo un (pull requests). Siguiendo los pasos puedes contribuir a
+un repositorio.
+
+
+
+
+
+
+
 
 
 
